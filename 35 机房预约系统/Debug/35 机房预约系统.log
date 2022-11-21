@@ -1,0 +1,11 @@
+﻿  manager.cpp
+  orderFile.cpp
+  student.cpp
+D:\C++_b站\35 机房预约系统\35 机房预约系统\student.cpp(89,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++_b站\35 机房预约系统\35 机房预约系统\student.cpp(276,29): warning C4018: “<=”: 有符号/无符号不匹配
+  teacher.cpp
+D:\C++_b站\35 机房预约系统\35 机房预约系统\teacher.cpp(135,29): warning C4018: “<=”: 有符号/无符号不匹配
+  机房预约系统.cpp
+D:\C++_b站\35 机房预约系统\35 机房预约系统\机房预约系统.cpp(284,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  35 机房预约系统.vcxproj -> D:\C++_b站\35 机房预约系统\Debug\35 机房预约系统.exe
